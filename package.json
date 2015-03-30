@@ -1,0 +1,23 @@
+{
+  "name": "strangelove.js",
+  "version": "0.0.1",
+  "description": "or: How I Learned to Stop Worrying and Love the FB",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/benzweig/strangelove.js.git"
+  },
+  "author": "['Benjamin Zweig','Max Wofford']",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benzweig/strangelove.js/issues"
+  },
+  "homepage": "https://github.com/benzweig/strangelove.js",
+  "dependencies": {
+    "express": "^4.12.3",
+    "mustache-express": "^1.2.1"
+  }
+}
