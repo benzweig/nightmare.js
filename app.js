@@ -10,7 +10,7 @@ app.set('views', __dirname + '/public');
 app.use(express.static(__dirname + '/public')); // set static folder
 
 app.post('/', function (req, res) {
-  console.log(req);
+  //console.log(req);
   res.render('index.html');
 });
 
